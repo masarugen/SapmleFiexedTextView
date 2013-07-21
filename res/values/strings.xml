@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleFixedTextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world_min1">０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５Goog\nlePlayGooglePlay</string>
+    <string name="hello_world_min2">０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５GooglePlayGooglePlay</string>
+    <string name="hello_world">０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７８９０１２３４５６７88888888</string>
+
+</resources>
